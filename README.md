@@ -53,10 +53,10 @@ This project investigates **ElectroDermal Activity (EDA)** prediction using vide
 
 ## 🔬 Experiments
 
-### 🧬 Data Augmentation
+### Data Augmentation
 - Random transformations (e.g., **rotations**, **color jitter**, **flips**) help models learn generalized patterns and reduce overfitting.
 
-### 🖼️ Face Cropping
+### Face Cropping
 - **Face regions** are isolated using the **face_recognition library**, allowing the models to focus on meaningful features and reduce noise.
 
 ---
@@ -96,7 +96,7 @@ This project investigates **ElectroDermal Activity (EDA)** prediction using vide
 
 ## 🛠️ Repository Structure
 ```plaintext
-/Facial-Expression-Analysis-for-EDA-Prediction
+/FacialExpressionRecognition_DeepLearning
     ├── 01_DataExtraction/                 # Scripts for downloading, extracting, and normalizing raw data
     │   ├── utils_datadownloader.py        # Downloading raw UBFC-Phys data
     │   ├── utils_dataextraction.py        # Data extraction and organization scripts
