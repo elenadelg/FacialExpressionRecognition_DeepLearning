@@ -96,7 +96,7 @@ This project investigates **ElectroDermal Activity (EDA)** prediction using vide
 
 ## 🛠️ Repository Structure
 ```plaintext
-/FacialExpressionRecognition_DeepLearning
+/FacialExpressionRecognition_ComputerVision
     ├── 01_DataExtraction/                 # Scripts for downloading, extracting, and normalizing raw data
     │   ├── utils_datadownloader.py        # Downloading raw UBFC-Phys data
     │   ├── utils_dataextraction.py        # Data extraction and organization scripts
