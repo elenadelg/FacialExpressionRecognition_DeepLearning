@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "FacialExpreessionRecognition_EDAPrediction"
+name = "FacialExpressionRecognition_EDAPrediction"
 version = "0.1.0"
 description = "Computer Vision Project"
 authors = ["Elena Del Governatore eledelgo@gmail.com"]
